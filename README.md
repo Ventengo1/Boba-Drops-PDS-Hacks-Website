@@ -1,0 +1,1 @@
+So made this as an example for my club during my club meeting to show a simple website that they could make. Worked with documentation and other resources when got stuck and overall like how it turned out. Will continue to make changes in future to make it look better, have more info, and more.
